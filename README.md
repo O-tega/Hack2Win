@@ -1,6 +1,6 @@
 # Hack2Win
 # Naija Hackathon 2020
-# Creating a crime alert system as a solution to the increase rate of crime 
+# Creating a Crime Alert System as a solution to the increase rate of crime 
 # Team Hack2Win
 ### Team Members
 - Samuel Omolade
