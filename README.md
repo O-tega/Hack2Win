@@ -3,13 +3,13 @@
 # Creating a crime alert system as a solution to the increase rate of crime 
 # Team Hack2Win
 ### Team Members
-- Samuel omolade
+- Samuel Omolade
 samuelfemi85@gmail.com
-- 1 Powell oghenetega 
+- Igho Powell Oghenetega 
 Tega.myview@gmail.com
-- omolayo Clement
+- Omolayo Clement
 Naijawebmaster@gmail.com
-- Osinaike Gbemilekke iseoluwa
+- Osinaike Gbemilekke Iseoluwa
 osinaikegbemileke@gmail.com
 - Koyenikan Esther
 Koyenikanarinola@gmail.com
